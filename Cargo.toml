@@ -7,4 +7,3 @@ edition = "2021"
 
 [dependencies]
 scan_dir = "0.3.3"
-
